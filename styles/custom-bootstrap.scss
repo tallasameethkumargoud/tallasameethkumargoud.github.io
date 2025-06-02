@@ -1,0 +1,9 @@
+// styles/custom-bootstrap.scss
+
+// Import Bootstrap's default SCSS variables to customize them
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+// You can override Bootstrap's default styles here
+$primary: #4caf50; // Change primary color, for example
+
+// Add more customizations here
